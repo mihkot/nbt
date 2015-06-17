@@ -1,3 +1,0 @@
-cc -c main.c  -Wall -std=c99
-cc -Wall -std=c99  main.o -o helloworld
-strip helloworld
